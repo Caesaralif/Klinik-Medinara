@@ -1,0 +1,26 @@
+doctor_id,name,specialization,schedule_days,phone,experience_years,consultation_fee_idr
+DOC01,"dr. Sari Hidayat, Sp.PD",Penyakit Dalam,Senin-Sabtu,086756332150,7,225000
+DOC02,"dr. Putri Kusuma, Sp.A",Anak,Senin-Jumat,082631775357,14,275000
+DOC03,"dr. Dewi Anggara, Sp.KG",Gigi,Senin-Jumat,082625792787,20,250000
+DOC04,"dr. Yanti Halim, Sp.KK",Kulit,"Senin,Rabu,Jumat",084026113008,4,225000
+DOC05,"dr. Indah Nugroho, Sp.PD",Penyakit Dalam,Senin-Jumat,086927597015,17,275000
+DOC06,dr. Joko Setiawan,Umum,"Selasa,Kamis,Sabtu",089896606039,23,60000
+DOC07,dr. Ratna Hidayat,Umum,Senin-Sabtu,086924716023,23,100000
+DOC08,"dr. Vina Suryadi, Sp.KG",Gigi,Senin-Jumat,086649827836,11,175000
+DOC09,"dr. Wahyu Suryadi, Sp.OG",Kandungan,"Senin,Rabu,Jumat",088110054933,15,350000
+DOC10,"dr. Rizki Nugroho, Sp.M",Mata,"Selasa,Kamis,Sabtu",087801222128,14,225000
+DOC11,"dr. Rina Lesmana, Sp.A",Anak,Senin-Sabtu,081470939445,23,200000
+DOC12,"dr. Yuli Wardana, Sp.PD",Penyakit Dalam,Senin-Jumat,086947530309,22,350000
+DOC13,dr. Linda Pratama,Umum,Senin-Jumat,088047877267,6,75000
+DOC14,"dr. Adi Pratama, Sp.OG",Kandungan,"Selasa,Kamis,Sabtu",084272602734,19,175000
+DOC15,"dr. Nadia Lesmana, Sp.M",Mata,"Senin,Rabu,Jumat",085951406973,8,150000
+DOC16,"dr. Mega Pratama, Sp.A",Anak,Senin-Jumat,089285415473,12,225000
+DOC17,dr. Wahyu Saputra,Umum,Senin-Jumat,088438486479,5,90000
+DOC18,"dr. Rina Wibowo, Sp.THT",THT,"Senin,Rabu,Jumat",086633778586,24,275000
+DOC19,dr. Galih Anggara,Umum,Senin-Jumat,082064746525,5,75000
+DOC20,"dr. Iwan Nugroho, Sp.THT",THT,"Senin,Rabu,Jumat",081030884438,25,150000
+DOC21,dr. Andi Suryadi,Umum,Senin-Jumat,083208283728,11,100000
+DOC22,"dr. Iwan Hartono, Sp.KG",Gigi,Senin-Sabtu,082748309234,6,175000
+DOC23,dr. Anggi Mahendra,Umum,Senin-Sabtu,084131356954,24,100000
+DOC24,dr. Maya Wijaya,Umum,Senin-Sabtu,088422620843,6,60000
+DOC25,"dr. Iwan Anggara, Sp.KK",Kulit,"Senin,Rabu,Jumat",082811967841,11,350000
